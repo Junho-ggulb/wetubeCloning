@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T23:26:02.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.7.0" etag="JAyyisUAbNJU_Kl4HM_V" type="github"><diagram id="qSbgkx1hMqw-gnkPo8Qg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-24T23:57:14.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="UrxMuSUsXGGyJHCIb1DQ" version="14.7.0" type="github">
+  <diagram id="qSbgkx1hMqw-gnkPo8Qg" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="odzftGRFI4uQZ_lG4530-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="odzftGRFI4uQZ_lG4530-1" target="odzftGRFI4uQZ_lG4530-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="odzftGRFI4uQZ_lG4530-1" target="odzftGRFI4uQZ_lG4530-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="odzftGRFI4uQZ_lG4530-1" target="odzftGRFI4uQZ_lG4530-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.414;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="odzftGRFI4uQZ_lG4530-1" target="odzftGRFI4uQZ_lG4530-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-1" value="team admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="286" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="odzftGRFI4uQZ_lG4530-4" target="odzftGRFI4uQZ_lG4530-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-4" value="User&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="585" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-7" value="사용자관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-8" value="게시판 관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="570" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-9" value="직급관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="odzftGRFI4uQZ_lG4530-20" target="odzftGRFI4uQZ_lG4530-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="odzftGRFI4uQZ_lG4530-20" target="odzftGRFI4uQZ_lG4530-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-20" value="admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-25" value="게시판 관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-31" value="생성한 방의 게시판" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="261" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-32" value="생성한 방의 사용자" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-33" value="멤버별 직급 권한 관리" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="356" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="odzftGRFI4uQZ_lG4530-34" target="odzftGRFI4uQZ_lG4530-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="odzftGRFI4uQZ_lG4530-34" target="odzftGRFI4uQZ_lG4530-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-34" value="팀 생성" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="510" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-61" value="채팅으로 1:1 회의" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="odzftGRFI4uQZ_lG4530-43" target="odzftGRFI4uQZ_lG4530-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-62" value="UI설계서 회의록등 관련해서&lt;br&gt;팀 적으로 회의" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="odzftGRFI4uQZ_lG4530-43" target="odzftGRFI4uQZ_lG4530-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-43" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-45" value="사용자 관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="630" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-53" value="채팅시작" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-55" value="토픽 생성" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-57" value="팀 관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="odzftGRFI4uQZ_lG4530-59" value="팀 초대 권한&lt;br&gt;1:1 대화 삭제 허용&lt;br&gt;팀삭제" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
